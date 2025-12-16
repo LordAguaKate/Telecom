@@ -1,4 +1,4 @@
-telecom_x_churn
+TELECOM
 ==============================
 
 Analisis de evasion de clientes Telecom X
