@@ -121,7 +121,7 @@ La mayoría de las cancelaciones ocurren durante los primeros 6 meses de vida de
 **Jesus (LordAguaKate)**
 Data Scientist en formación
 
-Proyecto desarrollado como parte del desafío de análisis de datos para Telecom X.
+Proyecto desarrollado como parte del desafío de análisis de datos para [ORACLE](https://www.oracle.com/latam/education/oracle-next-education/).
 
 ## 📄 Licencia
 
