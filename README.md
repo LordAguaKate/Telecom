@@ -26,6 +26,10 @@ Telecom/
 │   ├── 3.0-analisis-descriptivo.ipynb
 │   └── 4.0-analisis-correlacion.ipynb
 │
+├── reports/       # Reportes generados
+│   ├── Informe Ejecutivo_ Análisis de Evasión (Churn) - Telecom X.pdf
+│   └── figures/   # Gráficos exportados (PNG, HTML)
+│
 ├── requirements.txt   # Dependencias del proyecto
 └── README.md          # Documentación del proyecto
 ```
@@ -107,14 +111,30 @@ Principales patrones detectados durante el análisis:
 * **⚠️ Contratos Mensuales**
 Representan la mayor fuente de fuga. Los clientes sin compromiso a largo plazo son altamente volátiles.
 
+<p align="center">
+  <img src="reports/figures/bar_tipo_contrato.png" width="600" title="Gráfico de Dona">
+</p>
+
 * **💸 Sensibilidad al Precio**
 Existe una correlación directa entre facturación mensual elevada y mayor probabilidad de abandono.
+
+<p align="center">
+  <img src="reports/figures/box_cargo_mensual.png" width="600" title="Gráfico de Dona">
+</p>
 
 * **🌐 Fibra Óptica**
 Los usuarios de este servicio presentan tasas de cancelación superiores al promedio, lo que sugiere posibles problemas técnicos o de competitividad en precios.
 
+<p align="center">
+  <img src="reports/figures/bar_servicio_internet.png" width="600" title="Gráfico de Dona">
+</p>
+
 * **📉 Valle de la Muerte**
 La mayoría de las cancelaciones ocurren durante los primeros 6 meses de vida del cliente.
+
+<p align="center">
+  <img src="reports/figures/box_meses_contrato.png" width="600" title="Gráfico de Dona">
+</p>
 
 ## ✒️ Autor
 
