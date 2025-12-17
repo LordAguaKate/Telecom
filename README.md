@@ -14,7 +14,7 @@ El análisis cubre todo el flujo de trabajo típico de **Data Science**, desde l
 El proyecto sigue la estructura estándar de **Cookiecutter Data Science**, adaptada a los notebooks desarrollados:
 
 ```text
-telecom_x_churn/
+Telecom/
 ├── data/
 │   ├── raw/        # Datos crudos (JSON original de la API)
 │   ├── processed/  # Datos limpios y transformados (CSV final)
