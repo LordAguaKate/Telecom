@@ -40,7 +40,7 @@ Python 3.9 o superior
 
 ```bash
 git clone https://github.com/LordAguaKate/Telecom.git
-cd Telecom/telecom_x_churn
+cd Telecom
 ```
 
 2. Crear un entorno virtual (recomendado)
