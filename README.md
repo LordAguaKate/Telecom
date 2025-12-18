@@ -142,7 +142,7 @@ La mayoría de las cancelaciones ocurren durante los primeros 6 meses de vida de
 **Jesus (LordAguaKate)**
 Data Scientist en formación
 
-Proyecto desarrollado como parte del desafío de análisis de datos para [ORACLE](https://www.oracle.com/latam/education/oracle-next-education/).
+Proyecto desarrollado como parte del desafío de análisis de datos para [ORACLE](https://www.oracle.com/latam/education/oracle-next-education/) y [ALURA LATAM](https://github.com/alura-es-cursos).
 
 ## 📄 Licencia
 
