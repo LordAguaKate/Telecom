@@ -135,6 +135,7 @@ La mayoría de las cancelaciones ocurren durante los primeros 6 meses de vida de
 <p align="center">
   <img src="reports/figures/box_meses_contrato.png" width="600" title="Gráfico de Caja>
 </p>
+<br clear="left"/>
 
 ## ✒️ Autor
 
